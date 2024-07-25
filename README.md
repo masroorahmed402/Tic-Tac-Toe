@@ -7,7 +7,7 @@ Welcome to my Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript. This 
 - **Turn-based gameplay**: Alternates between `X` and `O`.
 - **Win detection**: Highlights the winning combination.
 - **Draw detection**: Alerts the player if the game is a draw.
-- **Reset button**: Restarts the game.
+- **Reset button /New Game Button**: Restarts the game.
 
 
 **How to Run Locally**:
